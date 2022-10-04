@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimishh7&label=Profile%20views&color=0e75b6&style=flat" alt="nimishh7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimishh7" alt="nimishh7" /></a> </p>
 
 - 📫 How to reach me **cr7nimish@gmail.com**
 
